@@ -1,0 +1,15 @@
+/* Import fonts */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto+Slab');
+
+.body {
+  display: flex;
+  font-family: 'Open Sans', sans-serif;
+}
+
+#site-wrapper {
+  max-width: 960px;
+}
+
+.hero-text {
+  font-family: 'Roboto Slab', serif;
+}
